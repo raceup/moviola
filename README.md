@@ -2,9 +2,7 @@
 	<h1>Race UP Electric Division | moviola</h1>
 	<em>Replay data logs</em></br>
 
-<a href="https://landscape.io/github/raceup/moviola/master"><img src="https://landscape.io/github/raceup/moviola/master/landscape.svg?style=flat"></a> <a href="https://codeclimate.com/github/raceup/moviola"><img src="https://lima.codeclimate.com/github/raceup/moviola/badges/gpa.svg"></a> <a href="https://www.python.org/download/releases/3.6.0/"><img src="https://img.shields.io/badge/Python-3.6-blue.svg"></a></br>
-
-<a href="https://github.com/raceup/moviola/pulls"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a> <a href="https://github.com/raceup/moviola/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<a href="https://www.python.org/download/releases/3.6.0/"><img src="https://img.shields.io/badge/Python-3.6-blue.svg"></a> <a href="https://github.com/raceup/moviola/pulls"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a> <a href="https://github.com/raceup/moviola/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 
 
 
