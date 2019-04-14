@@ -1,6 +1,6 @@
 <div align="center" id="topOfReadme">
-	<h1>My awesome organization | My Awesome project</h1>
-	<em>Description of my awesome project</em></br>
+	<h1>Race UP Electric Division | moviola</h1>
+	<em>Replay data logs</em></br>
 
 <a href="https://landscape.io/github/raceup/moviola/master"><img src="https://landscape.io/github/raceup/moviola/master/landscape.svg?style=flat"></a> <a href="https://codeclimate.com/github/raceup/moviola"><img src="https://lima.codeclimate.com/github/raceup/moviola/badges/gpa.svg"></a> <a href="https://www.python.org/download/releases/3.6.0/"><img src="https://img.shields.io/badge/Python-3.6-blue.svg"></a></br>
 
